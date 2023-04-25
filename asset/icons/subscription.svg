@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="15" viewBox="0 0 18 15">
+  <g id="그룹_3" data-name="그룹 3" transform="translate(428 509)">
+    <line id="선_3" data-name="선 3" x2="9" transform="translate(-423.5 -508.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+    <line id="선_4" data-name="선 4" x2="13" transform="translate(-425.5 -506.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+    <line id="선_5" data-name="선 5" x2="17" transform="translate(-427.5 -494.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+    <line id="선_6" data-name="선 6" y2="10" transform="translate(-427.5 -504.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+    <line id="선_7" data-name="선 7" x2="17" transform="translate(-427.5 -504.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+    <line id="선_8" data-name="선 8" y2="10" transform="translate(-410.5 -504.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+    <g id="다각형_1" data-name="다각형 1" transform="translate(-416 -502) rotate(90)">
+      <path d="M 4.190985202789307 4.5 L 0.8090149760246277 4.5 L 2.5 1.118029952049255 L 4.190985202789307 4.5 Z" stroke="none"/>
+      <path d="M 2.5 2.236069917678833 L 1.618035078048706 4 L 3.381965160369873 4 L 2.5 2.236069917678833 M 2.5 0 L 5 5 L 0 5 L 2.5 0 Z" stroke="none" fill="#000"/>
+    </g>
+  </g>
+</svg>

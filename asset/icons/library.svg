@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="그룹_4" data-name="그룹 4" transform="translate(372 560)">
+    <g id="사각형_1" data-name="사각형 1" transform="translate(-370 -560)" fill="none" stroke="#000" stroke-width="1">
+      <rect width="14" height="14" stroke="none"/>
+      <rect x="0.5" y="0.5" width="13" height="13" fill="none"/>
+    </g>
+    <g id="다각형_2" data-name="다각형 2" transform="translate(-360 -556) rotate(90)">
+      <path d="M 5.190985202789307 5.5 L 0.8090149760246277 5.5 L 3 1.118029952049255 L 5.190985202789307 5.5 Z" stroke="none"/>
+      <path d="M 3 2.236069917678833 L 1.618034839630127 5 L 4.381965160369873 5 L 3 2.236069917678833 M 3 0 L 6 6 L 0 6 L 3 0 Z" stroke="none" fill="#000"/>
+    </g>
+    <line id="선_9" data-name="선 9" x2="12" transform="translate(-371.5 -544.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+    <line id="선_10" data-name="선 10" y2="12" transform="translate(-371.5 -556.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+  </g>
+</svg>
